@@ -129,7 +129,6 @@ equipments = {
 		year = 1945
 
 		archetype = medium_tank_equipment
-		archetype = heavy_tank_equipment
 		parent = medium_tank_equipment_3
 		priority = 50
 		visual_level = 0
